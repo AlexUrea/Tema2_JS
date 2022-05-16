@@ -1,0 +1,7 @@
+{
+  "name": "Tema2_JS",
+  "version": "1.0.0",
+  "dependencies": {
+    "mipsum": "^2.4.3"
+  }
+}
